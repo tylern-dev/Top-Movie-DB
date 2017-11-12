@@ -35,6 +35,7 @@ class MovieDetail extends Component {
           </Overdrive>
           <div>
             <h1>{movie.title}</h1>
+            <span>{movie.tagline}</span>
             <h3>{movie.release_date}</h3>
             <p>{movie.overview}</p>
           </div>
@@ -60,6 +61,13 @@ const MovieInfo = styled.div`
   display: flex;
   > div {
     margin-left: 20px;
+  }
+  h1{
+    margin-bottom: 0px;
+  }
+  span{
+    font-size: .8rem;
+    font-weight: bold;
   }
   img {
     position: relative;

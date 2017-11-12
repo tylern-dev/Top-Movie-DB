@@ -1,5 +1,5 @@
 {
-  "name": "lumdb",
+  "name": "top-movie-db",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
