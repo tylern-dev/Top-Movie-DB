@@ -1,7 +1,7 @@
 # Top-Movie-DB
 This application was built with React. It uses the [The Movie DB API](https://www.themoviedb.org/documentation/api?language=en) to retrieve popular movies to be displayed.
 
-![home page](https://imgur.com/a/Pj76q)
+(https://i.imgur.com/9qVDMjb.jpg)
 
 ## To Install:
 1. Clone Repo
