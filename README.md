@@ -1,5 +1,6 @@
 # Top-Movie-DB
 This application was built with React. It uses the [The Movie DB API](https://www.themoviedb.org/documentation/api?language=en) to retrieve popular movies to be displayed. 
+
 [App Demo](https://top-movie-database-react.herokuapp.com/)
 
 ## To Install:
